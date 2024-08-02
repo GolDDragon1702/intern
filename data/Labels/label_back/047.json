@@ -1,0 +1,298 @@
+{
+    "version": "5.5.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "name",
+            "points": [
+                [
+                    42.40322580645163,
+                    30.483870967741932
+                ],
+                [
+                    161.11290322580646,
+                    55.0
+                ]
+            ],
+            "group_id": 0,
+            "description": "Tên chủ xe",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "name",
+            "points": [
+                [
+                    42.40322580645163,
+                    57.58064516129032
+                ],
+                [
+                    234.66129032258064,
+                    87.9032258064516
+                ]
+            ],
+            "group_id": 1,
+            "description": "HÀ VĂN KHIÊM",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "engine",
+            "points": [
+                [
+                    43.048387096774206,
+                    183.38709677419357
+                ],
+                [
+                    123.04838709677419,
+                    211.7741935483871
+                ]
+            ],
+            "group_id": 0,
+            "description": "Số máy",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "engine",
+            "points": [
+                [
+                    280.4677419354839,
+                    184.67741935483872
+                ],
+                [
+                    559.1774193548388,
+                    211.1290322580645
+                ]
+            ],
+            "group_id": 1,
+            "description": "BYQ162FMJFB205530",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "address",
+            "points": [
+                [
+                    43.69354838709679,
+                    96.29032258064515
+                ],
+                [
+                    119.17741935483872,
+                    121.4516129032258
+                ]
+            ],
+            "group_id": 0,
+            "description": "Địa chỉ",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "address",
+            "points": [
+                [
+                    40.467741935483886,
+                    125.3225806451613
+                ],
+                [
+                    418.5322580645161,
+                    152.4193548387097
+                ]
+            ],
+            "group_id": 1,
+            "description": "Thôn Cả, Ban Công, Bá Thước, TH",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "brand",
+            "points": [
+                [
+                    42.40322580645163,
+                    160.16129032258064
+                ],
+                [
+                    150.1451612903226,
+                    184.03225806451613
+                ]
+            ],
+            "group_id": 0,
+            "description": "Nhãn hiệu",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "brand",
+            "points": [
+                [
+                    247.56451612903226,
+                    158.2258064516129
+                ],
+                [
+                    307.56451612903226,
+                    183.38709677419357
+                ]
+            ],
+            "group_id": 1,
+            "description": "GPX",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "model",
+            "points": [
+                [
+                    413.3709677419355,
+                    156.29032258064515
+                ],
+                [
+                    489.5,
+                    185.32258064516128
+                ]
+            ],
+            "group_id": 0,
+            "description": "Số loại",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "model",
+            "points": [
+                [
+                    639.8225806451613,
+                    158.8709677419355
+                ],
+                [
+                    848.8548387096774,
+                    186.61290322580646
+                ]
+            ],
+            "group_id": 1,
+            "description": "DEMON 150 GR",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "chassis",
+            "points": [
+                [
+                    42.40322580645163,
+                    211.1290322580645
+                ],
+                [
+                    142.40322580645162,
+                    240.16129032258064
+                ]
+            ],
+            "group_id": 0,
+            "description": "Số khung",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "chassis",
+            "points": [
+                [
+                    300.46774193548384,
+                    213.70967741935485
+                ],
+                [
+                    570.7903225806452,
+                    240.16129032258064
+                ]
+            ],
+            "group_id": 1,
+            "description": "MLTSLA409JB205530",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "color",
+            "points": [
+                [
+                    42.40322580645163,
+                    242.09677419354838
+                ],
+                [
+                    134.66129032258064,
+                    265.96774193548384
+                ]
+            ],
+            "group_id": 0,
+            "description": "Màu sơn",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "color",
+            "points": [
+                [
+                    241.11290322580646,
+                    238.8709677419355
+                ],
+                [
+                    454.01612903225805,
+                    267.258064516129
+                ]
+            ],
+            "group_id": 1,
+            "description": "Xám Trắng Đen Đỏ",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "plate",
+            "points": [
+                [
+                    39.177419354838726,
+                    293.7096774193548
+                ],
+                [
+                    217.24193548387098,
+                    326.6129032258064
+                ]
+            ],
+            "group_id": 0,
+            "description": "Biển số đăng ký",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "plate",
+            "points": [
+                [
+                    40.467741935483886,
+                    370.4838709677419
+                ],
+                [
+                    336.5967741935484,
+                    414.3548387096774
+                ]
+            ],
+            "group_id": 1,
+            "description": "36G5-373.89",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "/storage/intern_hcm/longph/data/Images/img_back/047.jpg",
+    "imageData": null,
+    "imageHeight": 550,
+    "imageWidth": 899
+}

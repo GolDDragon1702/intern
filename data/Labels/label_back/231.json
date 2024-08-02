@@ -1,0 +1,46 @@
+{
+    "version": "5.5.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "name",
+            "points": [
+                [
+                    32.4281045751634,
+                    26.944444444444457
+                ],
+                [
+                    146.15359477124184,
+                    51.781045751634004
+                ]
+            ],
+            "group_id": 0,
+            "description": "Tên chủ xe",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "name",
+            "points": [
+                [
+                    23.277777777777786,
+                    47.205882352941195
+                ],
+                [
+                    235.69607843137254,
+                    83.80718954248367
+                ]
+            ],
+            "group_id": 1,
+            "description": "LÊ HUY HOÀNG",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "/storage/intern_hcm/longph/data/Images/img_back/231.jpg",
+    "imageData": null,
+    "imageHeight": 565,
+    "imageWidth": 891
+}

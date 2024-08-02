@@ -1,0 +1,46 @@
+{
+    "version": "5.5.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "name",
+            "points": [
+                [
+                    21.202453987730095,
+                    8.558282208588984
+                ],
+                [
+                    135.9263803680982,
+                    33.71165644171782
+                ]
+            ],
+            "group_id": 0,
+            "description": "Tên chủ xe",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "name",
+            "points": [
+                [
+                    26.723926380368134,
+                    41.07361963190186
+                ],
+                [
+                    205.2515337423313,
+                    75.42944785276076
+                ]
+            ],
+            "group_id": 1,
+            "description": "CAO THU HÀ",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "/storage/intern_hcm/longph/data/Images/img_back/159.jpg",
+    "imageData": null,
+    "imageHeight": 530,
+    "imageWidth": 824
+}

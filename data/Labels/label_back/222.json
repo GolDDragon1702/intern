@@ -1,0 +1,46 @@
+{
+    "version": "5.5.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "name",
+            "points": [
+                [
+                    47.64503816793899,
+                    45.793893129771
+                ],
+                [
+                    169.78244274809165,
+                    74.80152671755725
+                ]
+            ],
+            "group_id": 0,
+            "description": "Tên chủ xe",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "name",
+            "points": [
+                [
+                    43.064885496183265,
+                    78.61832061068704
+                ],
+                [
+                    309.47709923664127,
+                    108.38931297709924
+                ]
+            ],
+            "group_id": 1,
+            "description": "HOÀNG PHI KHANH",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "/storage/intern_hcm/longph/data/Images/img_back/222.jpg",
+    "imageData": null,
+    "imageHeight": 658,
+    "imageWidth": 993
+}

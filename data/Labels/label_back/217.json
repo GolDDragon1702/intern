@@ -1,0 +1,46 @@
+{
+    "version": "5.5.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "name",
+            "points": [
+                [
+                    35.870370370370416,
+                    42.462962962963
+                ],
+                [
+                    173.64814814814818,
+                    69.12962962962966
+                ]
+            ],
+            "group_id": 0,
+            "description": "Tên chủ xe",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "name",
+            "points": [
+                [
+                    49.94444444444449,
+                    78.01851851851855
+                ],
+                [
+                    378.0925925925926,
+                    113.5740740740741
+                ]
+            ],
+            "group_id": 1,
+            "description": "NGUYỄN MINH HIẾU",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "/storage/intern_hcm/longph/data/Images/img_back/217.jpg",
+    "imageData": null,
+    "imageHeight": 639,
+    "imageWidth": 1011
+}

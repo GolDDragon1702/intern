@@ -1,0 +1,46 @@
+{
+    "version": "5.5.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "number",
+            "points": [
+                [
+                    170.3888888888889,
+                    376.05555555555554
+                ],
+                [
+                    200.94444444444449,
+                    408.27777777777777
+                ]
+            ],
+            "group_id": 0,
+            "description": "Số",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "number",
+            "points": [
+                [
+                    316.5,
+                    373.8333333333333
+                ],
+                [
+                    527.6111111111112,
+                    406.6111111111111
+                ]
+            ],
+            "group_id": 1,
+            "description": "69 012900",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "/storage/intern_hcm/longph/data/Images/img_front/085.jpg",
+    "imageData": null,
+    "imageHeight": 481,
+    "imageWidth": 733
+}

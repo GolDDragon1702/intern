@@ -1,0 +1,46 @@
+{
+    "version": "5.5.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "name",
+            "points": [
+                [
+                    62.61643835616444,
+                    46.79452054794516
+                ],
+                [
+                    331.10958904109594,
+                    104.32876712328763
+                ]
+            ],
+            "group_id": 0,
+            "description": "Tên chủ xe",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "name",
+            "points": [
+                [
+                    62.61643835616444,
+                    113.91780821917804
+                ],
+                [
+                    773.5753424657535,
+                    187.89041095890406
+                ]
+            ],
+            "group_id": 1,
+            "description": "NGUYỄN THANH QUANG",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "/storage/intern_hcm/longph/data/Images/img_back/173.jpg",
+    "imageData": null,
+    "imageHeight": 1184,
+    "imageWidth": 1854
+}

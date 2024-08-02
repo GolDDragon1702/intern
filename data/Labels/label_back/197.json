@@ -1,0 +1,46 @@
+{
+    "version": "5.5.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "name",
+            "points": [
+                [
+                    36.21428571428574,
+                    41.07142857142861
+                ],
+                [
+                    166.21428571428575,
+                    66.78571428571432
+                ]
+            ],
+            "group_id": 0,
+            "description": "Tên chủ xe",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "name",
+            "points": [
+                [
+                    62.64285714285717,
+                    71.0714285714286
+                ],
+                [
+                    314.7857142857143,
+                    108.21428571428574
+                ]
+            ],
+            "group_id": 1,
+            "description": "LỤC ĐINH TUẤN",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "/storage/intern_hcm/longph/data/Images/img_back/197.jpg",
+    "imageData": null,
+    "imageHeight": 615,
+    "imageWidth": 971
+}

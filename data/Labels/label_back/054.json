@@ -1,0 +1,298 @@
+{
+    "version": "5.5.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "name",
+            "points": [
+                [
+                    44.942446043165475,
+                    27.046762589928072
+                ],
+                [
+                    172.28057553956833,
+                    55.823741007194265
+                ]
+            ],
+            "group_id": 0,
+            "description": "Tên chủ xe",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "name",
+            "points": [
+                [
+                    42.784172661870514,
+                    57.982014388489226
+                ],
+                [
+                    354.294964028777,
+                    91.07553956834533
+                ]
+            ],
+            "group_id": 1,
+            "description": "NGUYỄN DUY PHƯƠNG",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "engine",
+            "points": [
+                [
+                    46.38129496402878,
+                    199.70863309352518
+                ],
+                [
+                    132.71223021582733,
+                    233.52158273381295
+                ]
+            ],
+            "group_id": 0,
+            "description": "Số máy",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "engine",
+            "points": [
+                [
+                    297.46043165467626,
+                    204.74460431654677
+                ],
+                [
+                    454.294964028777,
+                    233.52158273381295
+                ]
+            ],
+            "group_id": 1,
+            "description": "F124133142",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "address",
+            "points": [
+                [
+                    44.942446043165475,
+                    102.58633093525181
+                ],
+                [
+                    126.9568345323741,
+                    129.92446043165467
+                ]
+            ],
+            "group_id": 0,
+            "description": "Địa chỉ",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "address",
+            "points": [
+                [
+                    44.22302158273382,
+                    136.39928057553956
+                ],
+                [
+                    486.6690647482015,
+                    168.05395683453239
+                ]
+            ],
+            "group_id": 1,
+            "description": "Tân Lý Đông, Châu Thành, Tiền Giang",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "brand",
+            "points": [
+                [
+                    45.66187050359713,
+                    173.08992805755395
+                ],
+                [
+                    161.4892086330935,
+                    200.42805755395682
+                ]
+            ],
+            "group_id": 0,
+            "description": "Nhãn hiệu",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "brand",
+            "points": [
+                [
+                    257.8920863309353,
+                    174.52877697841726
+                ],
+                [
+                    367.24460431654677,
+                    201.86690647482013
+                ]
+            ],
+            "group_id": 1,
+            "description": "SUZUKI",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "model",
+            "points": [
+                [
+                    438.46762589928056,
+                    172.3705035971223
+                ],
+                [
+                    519.0431654676258,
+                    205.4640287769784
+                ]
+            ],
+            "group_id": 0,
+            "description": "Số loại",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "model",
+            "points": [
+                [
+                    677.3165467625898,
+                    179.56474820143885
+                ],
+                [
+                    791.705035971223,
+                    209.0611510791367
+                ]
+            ],
+            "group_id": 1,
+            "description": "RGV 120",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "chassis",
+            "points": [
+                [
+                    47.100719424460436,
+                    231.36330935251797
+                ],
+                [
+                    153.57553956834533,
+                    263.73741007194246
+                ]
+            ],
+            "group_id": 0,
+            "description": "Số khung",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "chassis",
+            "points": [
+                [
+                    316.8848920863309,
+                    237.1187050359712
+                ],
+                [
+                    570.1223021582733,
+                    265.8956834532374
+                ]
+            ],
+            "group_id": 1,
+            "description": "RU120UOXA33142",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "color",
+            "points": [
+                [
+                    45.66187050359713,
+                    266.6151079136691
+                ],
+                [
+                    144.22302158273382,
+                    291.794964028777
+                ]
+            ],
+            "group_id": 0,
+            "description": "Màu sơn",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "color",
+            "points": [
+                [
+                    244.22302158273382,
+                    267.3345323741007
+                ],
+                [
+                    361.48920863309354,
+                    296.83093525179856
+                ]
+            ],
+            "group_id": 1,
+            "description": "Vàng Đen",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "plate",
+            "points": [
+                [
+                    45.66187050359713,
+                    323.4496402877698
+                ],
+                [
+                    231.99280575539566,
+                    358.7014388489209
+                ]
+            ],
+            "group_id": 0,
+            "description": "Biển số đăng ký",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "plate",
+            "points": [
+                [
+                    44.942446043165475,
+                    407.6223021582734
+                ],
+                [
+                    353.57553956834533,
+                    457.26258992805754
+                ]
+            ],
+            "group_id": 1,
+            "description": "63B3-151.74",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "/storage/intern_hcm/longph/data/Images/img_back/054.jpg",
+    "imageData": null,
+    "imageHeight": 621,
+    "imageWidth": 946
+}

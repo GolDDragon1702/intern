@@ -1,0 +1,46 @@
+{
+    "version": "5.5.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "name",
+            "points": [
+                [
+                    6.155279503105641,
+                    10.506211180124236
+                ],
+                [
+                    125.4099378881988,
+                    34.729813664596286
+                ]
+            ],
+            "group_id": 0,
+            "description": "Tên chủ xe",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "name",
+            "points": [
+                [
+                    14.850931677018684,
+                    41.562111801242246
+                ],
+                [
+                    280.6894409937888,
+                    73.86024844720498
+                ]
+            ],
+            "group_id": 1,
+            "description": "HOÀNG VĂN THÉP",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "/storage/intern_hcm/longph/data/Images/img_back/218.jpg",
+    "imageData": null,
+    "imageHeight": 503,
+    "imageWidth": 862
+}

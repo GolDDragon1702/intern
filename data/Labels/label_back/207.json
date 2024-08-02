@@ -1,0 +1,46 @@
+{
+    "version": "5.5.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "name",
+            "points": [
+                [
+                    49.947154471544664,
+                    27.922764227642254
+                ],
+                [
+                    188.97154471544712,
+                    58.00406504065038
+                ]
+            ],
+            "group_id": 0,
+            "description": "Tên chủ xe",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "name",
+            "points": [
+                [
+                    46.69512195121946,
+                    60.44308943089428
+                ],
+                [
+                    288.1585365853658,
+                    98.65447154471542
+                ]
+            ],
+            "group_id": 1,
+            "description": "HỒ TRỌNG HIẾU",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "/storage/intern_hcm/longph/data/Images/img_back/207.jpg",
+    "imageData": null,
+    "imageHeight": 703,
+    "imageWidth": 1069
+}

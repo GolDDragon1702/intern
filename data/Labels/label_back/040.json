@@ -1,0 +1,298 @@
+{
+    "version": "5.5.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "name",
+            "points": [
+                [
+                    38.783464566929126,
+                    37.425196850393725
+                ],
+                [
+                    182.09055118110234,
+                    73.6456692913386
+                ]
+            ],
+            "group_id": 0,
+            "description": "Tên chủ xe",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "name",
+            "points": [
+                [
+                    41.93307086614173,
+                    76.79527559055121
+                ],
+                [
+                    357.6811023622047,
+                    115.37795275590554
+                ]
+            ],
+            "group_id": 1,
+            "description": "NGUYỄN NGỌC CÔNG",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "address",
+            "points": [
+                [
+                    41.14566929133858,
+                    121.67716535433074
+                ],
+                [
+                    133.27165354330708,
+                    154.748031496063
+                ]
+            ],
+            "group_id": 0,
+            "description": "Địa chỉ",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "address",
+            "points": [
+                [
+                    37.20866141732283,
+                    157.8976377952756
+                ],
+                [
+                    303.35039370078744,
+                    194.11811023622047
+                ]
+            ],
+            "group_id": 1,
+            "description": "Tổ 1 Lãm Hà, KA, HP",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "engine",
+            "points": [
+                [
+                    42.720472440944874,
+                    232.70078740157481
+                ],
+                [
+                    136.42125984251967,
+                    269.7086614173229
+                ]
+            ],
+            "group_id": 0,
+            "description": "Số máy",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "engine",
+            "points": [
+                [
+                    316.7362204724409,
+                    237.42519685039372
+                ],
+                [
+                    509.64960629921256,
+                    266.5590551181103
+                ]
+            ],
+            "group_id": 1,
+            "description": "JF94E0402601",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "brand",
+            "points": [
+                [
+                    39.57086614173228,
+                    203.56692913385828
+                ],
+                [
+                    168.7047244094488,
+                    234.27559055118112
+                ]
+            ],
+            "group_id": 0,
+            "description": "Nhãn hiệu",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "brand",
+            "points": [
+                [
+                    272.64173228346453,
+                    202.77952755905514
+                ],
+                [
+                    389.96456692913387,
+                    233.48818897637796
+                ]
+            ],
+            "group_id": 1,
+            "description": "HONDA",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "model",
+            "points": [
+                [
+                    465.5551181102362,
+                    197.2677165354331
+                ],
+                [
+                    549.8070866141733,
+                    232.70078740157481
+                ]
+            ],
+            "group_id": 0,
+            "description": "Số loại",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "model",
+            "points": [
+                [
+                    715.1614173228346,
+                    198.05511811023624
+                ],
+                [
+                    889.9645669291339,
+                    228.76377952755908
+                ]
+            ],
+            "group_id": 1,
+            "description": "AIR BLADE",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "chassis",
+            "points": [
+                [
+                    40.35826771653542,
+                    268.13385826771656
+                ],
+                [
+                    159.25590551181102,
+                    304.35433070866145
+                ]
+            ],
+            "group_id": 0,
+            "description": "Số khung",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "chassis",
+            "points": [
+                [
+                    337.996062992126,
+                    268.9212598425197
+                ],
+                [
+                    640.3582677165355,
+                    298.8425196850394
+                ]
+            ],
+            "group_id": 1,
+            "description": "RLHJF6337MZ739458",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "color",
+            "points": [
+                [
+                    41.14566929133858,
+                    307.5039370078741
+                ],
+                [
+                    149.80708661417322,
+                    336.6377952755906
+                ]
+            ],
+            "group_id": 0,
+            "description": "Màu sơn",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "color",
+            "points": [
+                [
+                    271.85433070866145,
+                    304.35433070866145
+                ],
+                [
+                    325.3976377952756,
+                    336.6377952755906
+                ]
+            ],
+            "group_id": 1,
+            "description": "Đen",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "plate",
+            "points": [
+                [
+                    38.783464566929126,
+                    371.2834645669292
+                ],
+                [
+                    243.507874015748,
+                    409.07874015748035
+                ]
+            ],
+            "group_id": 0,
+            "description": "Biển số đăng ký",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "plate",
+            "points": [
+                [
+                    43.50787401574803,
+                    464.984251968504
+                ],
+                [
+                    368.7047244094488,
+                    516.9527559055118
+                ]
+            ],
+            "group_id": 1,
+            "description": "15B4-232.07",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "/storage/intern_hcm/longph/data/Images/img_back/040.jpg",
+    "imageData": null,
+    "imageHeight": 678,
+    "imageWidth": 1013
+}

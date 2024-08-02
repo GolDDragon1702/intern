@@ -1,0 +1,46 @@
+{
+    "version": "5.5.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "name",
+            "points": [
+                [
+                    22.134146341463456,
+                    50.58536585365856
+                ],
+                [
+                    128.84146341463418,
+                    71.92682926829269
+                ]
+            ],
+            "group_id": 0,
+            "description": "Tên chủ xe",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "name",
+            "points": [
+                [
+                    30.67073170731711,
+                    77.41463414634148
+                ],
+                [
+                    276.4024390243903,
+                    112.17073170731709
+                ]
+            ],
+            "group_id": 1,
+            "description": "PHẠM NHƯ QUỲNH",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "/storage/intern_hcm/longph/data/Images/img_back/211.jpg",
+    "imageData": null,
+    "imageHeight": 528,
+    "imageWidth": 815
+}

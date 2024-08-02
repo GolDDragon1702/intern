@@ -1,0 +1,46 @@
+{
+    "version": "5.5.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "name",
+            "points": [
+                [
+                    25.77586206896551,
+                    36.15517241379311
+                ],
+                [
+                    152.5,
+                    68.05172413793103
+                ]
+            ],
+            "group_id": 0,
+            "description": "Tên chủ xe",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "name",
+            "points": [
+                [
+                    138.70689655172413,
+                    77.53448275862068
+                ],
+                [
+                    436.98275862068965,
+                    119.77586206896552
+                ]
+            ],
+            "group_id": 1,
+            "description": "TRƯƠNG QUỐC VẠN",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "/storage/intern_hcm/longph/data/Images/img_back/168.jpg",
+    "imageData": null,
+    "imageHeight": 743,
+    "imageWidth": 1005
+}

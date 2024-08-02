@@ -1,0 +1,298 @@
+{
+    "version": "5.5.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "name",
+            "points": [
+                [
+                    6.730061349693267,
+                    23.89570552147242
+                ],
+                [
+                    131.8834355828221,
+                    51.5030674846626
+                ]
+            ],
+            "group_id": 0,
+            "description": "Tên chủ xe",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "name",
+            "points": [
+                [
+                    6.730061349693267,
+                    55.18404907975463
+                ],
+                [
+                    173.60122699386503,
+                    88.92638036809818
+                ]
+            ],
+            "group_id": 1,
+            "description": "TẠ THÚY VY",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "engine",
+            "points": [
+                [
+                    11.024539877300644,
+                    193.22085889570553
+                ],
+                [
+                    93.23312883435584,
+                    226.34969325153375
+                ]
+            ],
+            "group_id": 0,
+            "description": "Số máy",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "engine",
+            "points": [
+                [
+                    247.83435582822088,
+                    199.3558282208589
+                ],
+                [
+                    414.70552147239266,
+                    225.7361963190184
+                ]
+            ],
+            "group_id": 1,
+            "description": "F15S32788191",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "address",
+            "points": [
+                [
+                    9.797546012269954,
+                    99.96932515337426
+                ],
+                [
+                    90.7791411042945,
+                    125.12269938650309
+                ]
+            ],
+            "group_id": 0,
+            "description": "Địa chỉ",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "address",
+            "points": [
+                [
+                    11.02453987730063,
+                    130.03067484662577
+                ],
+                [
+                    377.282208588957,
+                    161.93251533742333
+                ]
+            ],
+            "group_id": 1,
+            "description": "Nguyễn Trãi, K3, P9, TP Cà Mau",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "brand",
+            "points": [
+                [
+                    10.411042944785294,
+                    168.0674846625767
+                ],
+                [
+                    122.0674846625767,
+                    195.06134969325154
+                ]
+            ],
+            "group_id": 0,
+            "description": "Nhãn hiệu",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "brand",
+            "points": [
+                [
+                    215.93251533742333,
+                    173.58895705521473
+                ],
+                [
+                    323.90797546012266,
+                    195.06134969325154
+                ]
+            ],
+            "group_id": 1,
+            "description": "DAEWOO",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "model",
+            "points": [
+                [
+                    398.1411042944785,
+                    166.22699386503066
+                ],
+                [
+                    476.0552147239264,
+                    196.2883435582822
+                ]
+            ],
+            "group_id": 0,
+            "description": "Số loại",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "model",
+            "points": [
+                [
+                    636.1779141104294,
+                    172.9754601226994
+                ],
+                [
+                    736.1779141104294,
+                    197.51533742331287
+                ]
+            ],
+            "group_id": 1,
+            "description": "GENTRA",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "chassis",
+            "points": [
+                [
+                    10.411042944785294,
+                    225.12269938650306
+                ],
+                [
+                    114.09202453987731,
+                    257.63803680981596
+                ]
+            ],
+            "group_id": 0,
+            "description": "Số khung",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "chassis",
+            "points": [
+                [
+                    265.0122699386503,
+                    229.41717791411043
+                ],
+                [
+                    534.9509202453987,
+                    255.1840490797546
+                ]
+            ],
+            "group_id": 1,
+            "description": "RLLSF69YD8H010666",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "color",
+            "points": [
+                [
+                    10.411042944785294,
+                    258.25153374233133
+                ],
+                [
+                    106.11656441717793,
+                    283.40490797546016
+                ]
+            ],
+            "group_id": 0,
+            "description": "Màu sơn",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "color",
+            "points": [
+                [
+                    198.14110429447854,
+                    258.86503067484665
+                ],
+                [
+                    249.06134969325151,
+                    285.8588957055215
+                ]
+            ],
+            "group_id": 1,
+            "description": "Đen",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "plate",
+            "points": [
+                [
+                    9.184049079754619,
+                    313.4662576687117
+                ],
+                [
+                    187.7116564417178,
+                    349.0490797546012
+                ]
+            ],
+            "group_id": 0,
+            "description": "Biển số đăng ký",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "plate",
+            "points": [
+                [
+                    9.184049079754619,
+                    391.99386503067484
+                ],
+                [
+                    270.5337423312883,
+                    439.84662576687117
+                ]
+            ],
+            "group_id": 1,
+            "description": "69A-092.43",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "/storage/intern_hcm/longph/data/Images/img_back/053.jpg",
+    "imageData": null,
+    "imageHeight": 530,
+    "imageWidth": 838
+}

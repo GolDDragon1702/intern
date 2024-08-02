@@ -1,0 +1,46 @@
+{
+    "version": "5.5.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "name",
+            "points": [
+                [
+                    37.21428571428573,
+                    17.714285714285758
+                ],
+                [
+                    164.35714285714286,
+                    42.00000000000004
+                ]
+            ],
+            "group_id": 0,
+            "description": "Tên chủ xe",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "name",
+            "points": [
+                [
+                    30.071428571428584,
+                    52.00000000000004
+                ],
+                [
+                    305.7857142857143,
+                    95.57142857142861
+                ]
+            ],
+            "group_id": 1,
+            "description": "HOÀNG VĂN QUÝ",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "/storage/intern_hcm/longph/data/Images/img_back/225.jpg",
+    "imageData": null,
+    "imageHeight": 604,
+    "imageWidth": 993
+}

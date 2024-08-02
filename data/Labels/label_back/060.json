@@ -1,0 +1,298 @@
+{
+    "version": "5.5.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "name",
+            "points": [
+                [
+                    27.04901960784313,
+                    26.212418300653606
+                ],
+                [
+                    157.1143790849673,
+                    55.62418300653596
+                ]
+            ],
+            "group_id": 0,
+            "description": "Tên chủ xe",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "name",
+            "points": [
+                [
+                    25.74183006535947,
+                    56.277777777777786
+                ],
+                [
+                    244.69607843137254,
+                    90.26470588235296
+                ]
+            ],
+            "group_id": 1,
+            "description": "TRẦN MINH NHÍ",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "engine",
+            "points": [
+                [
+                    31.624183006535944,
+                    188.30392156862746
+                ],
+                [
+                    115.93790849673202,
+                    220.983660130719
+                ]
+            ],
+            "group_id": 0,
+            "description": "Số máy",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "engine",
+            "points": [
+                [
+                    273.4542483660131,
+                    195.4934640522876
+                ],
+                [
+                    442.7352941176471,
+                    221.6372549019608
+                ]
+            ],
+            "group_id": 1,
+            "description": "E101E014560",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "address",
+            "points": [
+                [
+                    31.624183006535944,
+                    96.14705882352942
+                ],
+                [
+                    111.36274509803921,
+                    124.25163398692813
+                ]
+            ],
+            "group_id": 0,
+            "description": "Địa chỉ",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "address",
+            "points": [
+                [
+                    28.35620915032679,
+                    129.48039215686276
+                ],
+                [
+                    441.4281045751634,
+                    158.8921568627451
+                ]
+            ],
+            "group_id": 1,
+            "description": "Thới Thuận A, TT.Thới Lai, Thới Lai",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "brand",
+            "points": [
+                [
+                    30.97058823529411,
+                    163.46732026143792
+                ],
+                [
+                    146.0032679738562,
+                    191.5718954248366
+                ]
+            ],
+            "group_id": 0,
+            "description": "Nhãn hiệu",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "brand",
+            "points": [
+                [
+                    238.16013071895424,
+                    165.42810457516342
+                ],
+                [
+                    368.87908496732024,
+                    192.8790849673203
+                ]
+            ],
+            "group_id": 1,
+            "description": "YAMAHA",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "model",
+            "points": [
+                [
+                    417.2450980392157,
+                    164.12091503267976
+                ],
+                [
+                    496.98366013071893,
+                    194.18627450980395
+                ]
+            ],
+            "group_id": 0,
+            "description": "Số loại",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "model",
+            "points": [
+                [
+                    649.9248366013072,
+                    166.08169934640526
+                ],
+                [
+                    721.8202614379085,
+                    192.22549019607845
+                ]
+            ],
+            "group_id": 1,
+            "description": "125Z",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "chassis",
+            "points": [
+                [
+                    29.66339869281045,
+                    219.6764705882353
+                ],
+                [
+                    139.46732026143792,
+                    249.7418300653595
+                ]
+            ],
+            "group_id": 0,
+            "description": "Số khung",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "chassis",
+            "points": [
+                [
+                    295.6764705882353,
+                    222.94444444444446
+                ],
+                [
+                    444.69607843137254,
+                    249.7418300653595
+                ]
+            ],
+            "group_id": 1,
+            "description": "KE1014560",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "color",
+            "points": [
+                [
+                    30.97058823529411,
+                    251.702614379085
+                ],
+                [
+                    128.3562091503268,
+                    275.23202614379085
+                ]
+            ],
+            "group_id": 0,
+            "description": "Màu sơn",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "color",
+            "points": [
+                [
+                    228.3562091503268,
+                    253.00980392156868
+                ],
+                [
+                    326.3954248366013,
+                    278.5
+                ]
+            ],
+            "group_id": 1,
+            "description": "Bạc Đen",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "plate",
+            "points": [
+                [
+                    30.97058823529411,
+                    304.6437908496732
+                ],
+                [
+                    212.01633986928104,
+                    339.2843137254902
+                ]
+            ],
+            "group_id": 0,
+            "description": "Biển số đăng ký",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "plate",
+            "points": [
+                [
+                    27.70261437908496,
+                    381.1143790849673
+                ],
+                [
+                    330.3169934640523,
+                    430.1339869281046
+                ]
+            ],
+            "group_id": 1,
+            "description": "65B2-764.40",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "/storage/intern_hcm/longph/data/Images/img_back/060.jpg",
+    "imageData": null,
+    "imageHeight": 557,
+    "imageWidth": 909
+}

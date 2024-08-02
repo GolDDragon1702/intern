@@ -1,0 +1,46 @@
+{
+    "version": "5.5.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "name",
+            "points": [
+                [
+                    47.000000000000014,
+                    47.601769911504434
+                ],
+                [
+                    195.6725663716814,
+                    79.46017699115045
+                ]
+            ],
+            "group_id": 0,
+            "description": "Tên chủ xe",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "name",
+            "points": [
+                [
+                    49.654867256637175,
+                    81.23008849557523
+                ],
+                [
+                    364.6991150442478,
+                    128.13274336283186
+                ]
+            ],
+            "group_id": 1,
+            "description": "TRƯƠNG QUỐC HUY",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "/storage/intern_hcm/longph/data/Images/img_back/223.jpg",
+    "imageData": null,
+    "imageHeight": 766,
+    "imageWidth": 1094
+}

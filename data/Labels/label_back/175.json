@@ -1,0 +1,46 @@
+{
+    "version": "5.5.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "name",
+            "points": [
+                [
+                    39.33834586466169,
+                    64.59774436090227
+                ],
+                [
+                    170.16541353383462,
+                    91.6654135338346
+                ]
+            ],
+            "group_id": 0,
+            "description": "Tên chủ xe",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "name",
+            "points": [
+                [
+                    46.10526315789477,
+                    99.93609022556393
+                ],
+                [
+                    365.6541353383459,
+                    139.7857142857143
+                ]
+            ],
+            "group_id": 1,
+            "description": "VÕ THỊ BÍCH TUYỀN",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "/storage/intern_hcm/longph/data/Images/img_back/175.jpg",
+    "imageData": null,
+    "imageHeight": 651,
+    "imageWidth": 1008
+}

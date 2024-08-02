@@ -1,0 +1,46 @@
+{
+    "version": "5.5.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "name",
+            "points": [
+                [
+                    9.124567474048442,
+                    0.019031141868514456
+                ],
+                [
+                    71.75432525951557,
+                    7.631487889273358
+                ]
+            ],
+            "group_id": 0,
+            "description": "Tên chủ xe",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "name",
+            "points": [
+                [
+                    2.2041522491349497,
+                    13.513840830449828
+                ],
+                [
+                    186.28719723183391,
+                    34.275086505190316
+                ]
+            ],
+            "group_id": 1,
+            "description": "NGUYỄN QUỐC TRƯỜNG",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "/storage/intern_hcm/longph/data/Images/img_back/235.jpg",
+    "imageData": null,
+    "imageHeight": 299,
+    "imageWidth": 466
+}

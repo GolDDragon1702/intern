@@ -1,0 +1,46 @@
+{
+    "version": "5.5.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "name",
+            "points": [
+                [
+                    40.43137254901963,
+                    20.539215686274495
+                ],
+                [
+                    199.2549019607843,
+                    61.71568627450979
+                ]
+            ],
+            "group_id": 0,
+            "description": "Tên chủ xe",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "name",
+            "points": [
+                [
+                    194.3529411764706,
+                    63.67647058823528
+                ],
+                [
+                    585.529411764706,
+                    121.51960784313725
+                ]
+            ],
+            "group_id": 1,
+            "description": "NGUYỄN HOÀNG SA",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "/storage/intern_hcm/longph/data/Images/img_back/169.jpg",
+    "imageData": null,
+    "imageHeight": 845,
+    "imageWidth": 1224
+}
