@@ -1,0 +1,46 @@
+{
+    "version": "5.5.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "name",
+            "points": [
+                [
+                    17.086206896551673,
+                    22.49999999999997
+                ],
+                [
+                    150.70689655172407,
+                    52.67241379310342
+                ]
+            ],
+            "group_id": 0,
+            "description": "Tên chủ xe",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "name",
+            "points": [
+                [
+                    219.67241379310343,
+                    51.810344827586185
+                ],
+                [
+                    506.74137931034477,
+                    96.63793103448273
+                ]
+            ],
+            "group_id": 1,
+            "description": "VÕ THÀNH NHÂN",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "/storage/intern_hcm/longph/data/Images/img_back/216.jpg",
+    "imageData": null,
+    "imageHeight": 745,
+    "imageWidth": 1029
+}

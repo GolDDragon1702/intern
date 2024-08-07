@@ -1,0 +1,46 @@
+{
+    "version": "5.5.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "name",
+            "points": [
+                [
+                    44.738805970149286,
+                    48.61940298507464
+                ],
+                [
+                    176.82835820895525,
+                    75.4850746268657
+                ]
+            ],
+            "group_id": 0,
+            "description": "Tên chủ xe",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "name",
+            "points": [
+                [
+                    43.99253731343288,
+                    82.94776119402987
+                ],
+                [
+                    367.12686567164184,
+                    124.73880597014927
+                ]
+            ],
+            "group_id": 1,
+            "description": "TRƯƠNG TUẤN KIỆT",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "/storage/intern_hcm/longph/data/Images/img_back/158.jpg",
+    "imageData": null,
+    "imageHeight": 645,
+    "imageWidth": 985
+}

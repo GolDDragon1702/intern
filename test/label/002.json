@@ -1,0 +1,478 @@
+{
+    "version": "5.5.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "name",
+            "points": [
+                [
+                    31.944444444444443,
+                    25.462962962962962
+                ],
+                [
+                    105.55555555555554,
+                    42.59259259259259
+                ]
+            ],
+            "group_id": 0,
+            "description": "Tên chủ xe",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "name",
+            "points": [
+                [
+                    116.2037037037037,
+                    39.35185185185185
+                ],
+                [
+                    316.2037037037037,
+                    66.66666666666666
+                ]
+            ],
+            "group_id": 1,
+            "description": "NGUYỄN TÔN NHUẬN",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "engine",
+            "points": [
+                [
+                    333.79629629629625,
+                    29.166666666666664
+                ],
+                [
+                    386.1111111111111,
+                    49.07407407407407
+                ]
+            ],
+            "group_id": 0,
+            "description": "Số máy",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "engine",
+            "points": [
+                [
+                    407.4074074074074,
+                    48.61111111111111
+                ],
+                [
+                    553.7037037037037,
+                    69.9074074074074
+                ]
+            ],
+            "group_id": 1,
+            "description": "F03E-0057735",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "address",
+            "points": [
+                [
+                    27.314814814814817,
+                    68.98148148148148
+                ],
+                [
+                    78.24074074074073,
+                    86.1111111111111
+                ]
+            ],
+            "group_id": 0,
+            "description": "Địa chỉ",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "address",
+            "points": [
+                [
+                    89.81481481481481,
+                    84.72222222222221
+                ],
+                [
+                    324.537037037037,
+                    110.64814814814814
+                ]
+            ],
+            "group_id": 1,
+            "description": "KE27 Kp3 P.TTTây Q7",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "chassis",
+            "points": [
+                [
+                    334.7222222222222,
+                    73.61111111111111
+                ],
+                [
+                    398.1481481481481,
+                    93.51851851851852
+                ]
+            ],
+            "group_id": 0,
+            "description": "Số khung",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "chassis",
+            "points": [
+                [
+                    406.48148148148147,
+                    91.2037037037037
+                ],
+                [
+                    553.7037037037037,
+                    115.27777777777777
+                ]
+            ],
+            "group_id": 1,
+            "description": "5A04F-070410",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "brand",
+            "points": [
+                [
+                    23.148148148148145,
+                    115.27777777777777
+                ],
+                [
+                    94.90740740740739,
+                    132.4074074074074
+                ]
+            ],
+            "group_id": 0,
+            "description": "Nhãn hiệu",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "brand",
+            "points": [
+                [
+                    187.037037037037,
+                    112.96296296296296
+                ],
+                [
+                    253.2407407407407,
+                    133.33333333333331
+                ]
+            ],
+            "group_id": 1,
+            "description": "HONDA",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "model",
+            "points": [
+                [
+                    332.4074074074074,
+                    120.37037037037037
+                ],
+                [
+                    380.09259259259255,
+                    140.27777777777777
+                ]
+            ],
+            "group_id": 0,
+            "description": "Số loại",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "model",
+            "points": [
+                [
+                    406.0185185185185,
+                    117.12962962962962
+                ],
+                [
+                    470.8333333333333,
+                    138.42592592592592
+                ]
+            ],
+            "group_id": 1,
+            "description": "DYLAN",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "type",
+            "points": [
+                [
+                    24.537037037037038,
+                    133.33333333333331
+                ],
+                [
+                    75.46296296296296,
+                    149.53703703703704
+                ]
+            ],
+            "group_id": 0,
+            "description": "Loại xe",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "type",
+            "points": [
+                [
+                    175.9259259259259,
+                    133.33333333333331
+                ],
+                [
+                    275.0,
+                    151.38888888888889
+                ]
+            ],
+            "group_id": 1,
+            "description": "Hai bánh",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "color",
+            "points": [
+                [
+                    22.685185185185183,
+                    150.0
+                ],
+                [
+                    83.7962962962963,
+                    166.66666666666666
+                ]
+            ],
+            "group_id": 0,
+            "description": "Màu sơn",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "color",
+            "points": [
+                [
+                    199.537037037037,
+                    150.0
+                ],
+                [
+                    263.4259259259259,
+                    173.61111111111111
+                ]
+            ],
+            "group_id": 1,
+            "description": "Trắng",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "capacity",
+            "points": [
+                [
+                    331.9444444444444,
+                    155.55555555555554
+                ],
+                [
+                    398.6111111111111,
+                    174.07407407407408
+                ]
+            ],
+            "group_id": 0,
+            "description": "Dung tích",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "capacity",
+            "points": [
+                [
+                    468.98148148148147,
+                    155.55555555555554
+                ],
+                [
+                    505.55555555555554,
+                    177.77777777777777
+                ]
+            ],
+            "group_id": 1,
+            "description": "152",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "seat",
+            "points": [
+                [
+                    21.296296296296298,
+                    167.12962962962962
+                ],
+                [
+                    187.037037037037,
+                    187.03703703703704
+                ]
+            ],
+            "group_id": 0,
+            "description": "Số người được phép chở",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "seat",
+            "points": [
+                [
+                    198.6111111111111,
+                    177.3148148148148
+                ],
+                [
+                    226.85185185185182,
+                    197.68518518518516
+                ]
+            ],
+            "group_id": 1,
+            "description": "02",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "origin",
+            "points": [
+                [
+                    19.444444444444443,
+                    204.16666666666666
+                ],
+                [
+                    95.37037037037035,
+                    224.07407407407405
+                ]
+            ],
+            "group_id": 0,
+            "description": "Nguồn gốc",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "origin",
+            "points": [
+                [
+                    197.68518518518516,
+                    206.94444444444443
+                ],
+                [
+                    332.8703703703703,
+                    228.24074074074073
+                ]
+            ],
+            "group_id": 1,
+            "description": "Xe nhập mới",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "plate",
+            "points": [
+                [
+                    16.666666666666664,
+                    245.83333333333331
+                ],
+                [
+                    127.31481481481481,
+                    267.12962962962956
+                ]
+            ],
+            "group_id": 0,
+            "description": "Biển số đăng ký",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "plate",
+            "points": [
+                [
+                    44.90740740740741,
+                    290.7407407407407
+                ],
+                [
+                    211.57407407407405,
+                    328.2407407407407
+                ]
+            ],
+            "group_id": 1,
+            "description": "59V1-498.89",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "first_date",
+            "points": [
+                [
+                    15.277777777777779,
+                    329.62962962962956
+                ],
+                [
+                    162.037037037037,
+                    349.99999999999994
+                ]
+            ],
+            "group_id": 0,
+            "description": "Đăng ký lần đầu ngày",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "first_date",
+            "points": [
+                [
+                    30.555555555555557,
+                    365.7407407407407
+                ],
+                [
+                    109.25925925925924,
+                    387.96296296296293
+                ]
+            ],
+            "group_id": 1,
+            "description": "08/06/2004",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "/storage/intern_hcm/longph/test/image/002.jpg",
+    "imageData": null,
+    "imageHeight": 400,
+    "imageWidth": 600
+}

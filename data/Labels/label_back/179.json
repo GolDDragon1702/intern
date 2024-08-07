@@ -1,0 +1,46 @@
+{
+    "version": "5.5.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "name",
+            "points": [
+                [
+                    40.300000000000004,
+                    43.4
+                ],
+                [
+                    190.7,
+                    75.39999999999999
+                ]
+            ],
+            "group_id": 0,
+            "description": "Tên chủ xe",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "name",
+            "points": [
+                [
+                    45.1,
+                    81.8
+                ],
+                [
+                    286.70000000000005,
+                    121.8
+                ]
+            ],
+            "group_id": 1,
+            "description": "ĐỖ THỊ THÚY AN",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "/storage/intern_hcm/longph/data/Images/img_back/179.jpg",
+    "imageData": null,
+    "imageHeight": 690,
+    "imageWidth": 1111
+}

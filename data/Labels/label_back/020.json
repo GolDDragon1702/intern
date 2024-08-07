@@ -1,0 +1,298 @@
+{
+    "version": "5.5.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "name",
+            "points": [
+                [
+                    23.641791044776163,
+                    26.723880597014926
+                ],
+                [
+                    160.95522388059706,
+                    55.82835820895522
+                ]
+            ],
+            "group_id": 0,
+            "description": "Tên chủ xe",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "name",
+            "points": [
+                [
+                    20.656716417910495,
+                    59.559701492537314
+                ],
+                [
+                    362.4477611940299,
+                    99.85820895522389
+                ]
+            ],
+            "group_id": 1,
+            "description": "NGUYỄN QUỐC KHANG",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "address",
+            "points": [
+                [
+                    19.16417910447766,
+                    108.81343283582089
+                ],
+                [
+                    112.44776119402991,
+                    141.64925373134326
+                ]
+            ],
+            "group_id": 0,
+            "description": "Địa chỉ",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "address",
+            "points": [
+                [
+                    18.417910447761237,
+                    143.88805970149252
+                ],
+                [
+                    528.1194029850745,
+                    182.69402985074626
+                ]
+            ],
+            "group_id": 1,
+            "description": "Ấp Thạnh Phong, Thạnh Phước, GR, KG",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "brand",
+            "points": [
+                [
+                    21.402985074626912,
+                    189.410447761194
+                ],
+                [
+                    149.01492537313436,
+                    221.49999999999997
+                ]
+            ],
+            "group_id": 0,
+            "description": "Nhãn hiệu",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "brand",
+            "points": [
+                [
+                    252.74626865671644,
+                    187.9179104477612
+                ],
+                [
+                    402.00000000000006,
+                    217.7686567164179
+                ]
+            ],
+            "group_id": 1,
+            "description": "YAMAHA",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "model",
+            "points": [
+                [
+                    454.23880597014926,
+                    183.44029850746267
+                ],
+                [
+                    546.0298507462686,
+                    217.7686567164179
+                ]
+            ],
+            "group_id": 0,
+            "description": "Số loại",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "model",
+            "points": [
+                [
+                    733.3432835820895,
+                    178.96268656716416
+                ],
+                [
+                    885.5820895522387,
+                    214.03731343283582
+                ]
+            ],
+            "group_id": 1,
+            "description": "EXCITER",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "engine",
+            "points": [
+                [
+                    21.402985074626912,
+                    220.00746268656715
+                ],
+                [
+                    114.68656716417914,
+                    256.57462686567163
+                ]
+            ],
+            "group_id": 0,
+            "description": "Số máy",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "engine",
+            "points": [
+                [
+                    299.7611940298508,
+                    222.99253731343282
+                ],
+                [
+                    469.1641791044776,
+                    252.84328358208953
+                ]
+            ],
+            "group_id": 1,
+            "description": "55P1100507",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "chassis",
+            "points": [
+                [
+                    22.895522388059746,
+                    256.57462686567163
+                ],
+                [
+                    135.58208955223884,
+                    290.15671641791045
+                ]
+            ],
+            "group_id": 0,
+            "description": "Số khung",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "chassis",
+            "points": [
+                [
+                    321.4029850746269,
+                    255.0820895522388
+                ],
+                [
+                    647.5223880597015,
+                    286.4253731343283
+                ]
+            ],
+            "group_id": 1,
+            "description": "RLCE55P10CY100506",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "color",
+            "points": [
+                [
+                    22.14925373134333,
+                    294.6343283582089
+                ],
+                [
+                    128.1194029850747,
+                    323.7388059701492
+                ]
+            ],
+            "group_id": 0,
+            "description": "Màu sơn",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "color",
+            "points": [
+                [
+                    254.23880597014931,
+                    287.9179104477612
+                ],
+                [
+                    403.4925373134329,
+                    326.7238805970149
+                ]
+            ],
+            "group_id": 1,
+            "description": "Xanh Trắng",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "plate",
+            "points": [
+                [
+                    19.910447761194078,
+                    359.5597014925373
+                ],
+                [
+                    224.38805970149258,
+                    398.36567164179104
+                ]
+            ],
+            "group_id": 0,
+            "description": "Biển số đăng ký",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "plate",
+            "points": [
+                [
+                    18.417910447761237,
+                    453.58955223880594
+                ],
+                [
+                    355.73134328358213,
+                    507.320895522388
+                ]
+            ],
+            "group_id": 1,
+            "description": "68T1-070.28",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "/storage/intern_hcm/longph/data/Images/img_back/020.jpg",
+    "imageData": null,
+    "imageHeight": 643,
+    "imageWidth": 1004
+}

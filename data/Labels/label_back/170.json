@@ -1,0 +1,46 @@
+{
+    "version": "5.5.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "name",
+            "points": [
+                [
+                    18.142857142857153,
+                    21.333333333333286
+                ],
+                [
+                    257.42857142857144,
+                    67.76190476190472
+                ]
+            ],
+            "group_id": 0,
+            "description": "Tên chủ xe",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "name",
+            "points": [
+                [
+                    14.571428571428584,
+                    78.47619047619042
+                ],
+                [
+                    565.7619047619048,
+                    139.19047619047615
+                ]
+            ],
+            "group_id": 1,
+            "description": "NGUYỄN TUẤN NGỌC",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "/storage/intern_hcm/longph/data/Images/img_back/170.jpg",
+    "imageData": null,
+    "imageHeight": 1026,
+    "imageWidth": 1622
+}

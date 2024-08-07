@@ -1,0 +1,46 @@
+{
+    "version": "5.5.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "name",
+            "points": [
+                [
+                    14.676470588235318,
+                    15.529411764705884
+                ],
+                [
+                    136.73529411764707,
+                    43.47058823529412
+                ]
+            ],
+            "group_id": 0,
+            "description": "Tên chủ xe",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "name",
+            "points": [
+                [
+                    188.94117647058823,
+                    46.411764705882355
+                ],
+                [
+                    472.0294117647059,
+                    89.05882352941177
+                ]
+            ],
+            "group_id": 1,
+            "description": "HOÀNG DUY PHÚC",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "/storage/intern_hcm/longph/data/Images/img_back/174.jpg",
+    "imageData": null,
+    "imageHeight": 634,
+    "imageWidth": 922
+}

@@ -1,0 +1,46 @@
+{
+    "version": "5.5.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "name",
+            "points": [
+                [
+                    7.000000000000028,
+                    54.75000000000001
+                ],
+                [
+                    217.41666666666669,
+                    96.41666666666669
+                ]
+            ],
+            "group_id": 0,
+            "description": "Tên chủ xe",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "name",
+            "points": [
+                [
+                    10.12500000000003,
+                    103.70833333333334
+                ],
+                [
+                    512.2083333333335,
+                    156.83333333333334
+                ]
+            ],
+            "group_id": 1,
+            "description": "NGUYỄN THÙY DUNG",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "/storage/intern_hcm/longph/data/Images/img_back/176.jpg",
+    "imageData": null,
+    "imageHeight": 897,
+    "imageWidth": 1439
+}

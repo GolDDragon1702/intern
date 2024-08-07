@@ -1,0 +1,46 @@
+{
+    "version": "5.5.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "name",
+            "points": [
+                [
+                    56.50000000000001,
+                    55.4
+                ],
+                [
+                    196.5,
+                    82.6
+                ]
+            ],
+            "group_id": 0,
+            "description": "Tên chủ xe",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "name",
+            "points": [
+                [
+                    54.9,
+                    88.19999999999999
+                ],
+                [
+                    370.90000000000003,
+                    127.4
+                ]
+            ],
+            "group_id": 1,
+            "description": "ĐOÀN THỊ MINH THƯ",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "/storage/intern_hcm/longph/data/Images/img_back/184.jpg",
+    "imageData": null,
+    "imageHeight": 690,
+    "imageWidth": 1073
+}

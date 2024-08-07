@@ -1,0 +1,46 @@
+{
+    "version": "5.5.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "name",
+            "points": [
+                [
+                    24.41304347826091,
+                    9.826086956521781
+                ],
+                [
+                    155.57246376811597,
+                    38.08695652173917
+                ]
+            ],
+            "group_id": 0,
+            "description": "Tên chủ xe",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "name",
+            "points": [
+                [
+                    28.036231884058004,
+                    51.85507246376815
+                ],
+                [
+                    428.7608695652174,
+                    89.53623188405801
+                ]
+            ],
+            "group_id": 1,
+            "description": "TRƯƠNG HỒ THÙY TRINH",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "/storage/intern_hcm/longph/data/Images/img_back/161.jpg",
+    "imageData": null,
+    "imageHeight": 624,
+    "imageWidth": 1001
+}

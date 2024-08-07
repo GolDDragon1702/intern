@@ -1,0 +1,46 @@
+{
+    "version": "5.5.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "name",
+            "points": [
+                [
+                    36.157894736842124,
+                    41.89473684210527
+                ],
+                [
+                    150.63157894736844,
+                    64.92105263157895
+                ]
+            ],
+            "group_id": 0,
+            "description": "Tên chủ xe",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "name",
+            "points": [
+                [
+                    54.57894736842107,
+                    74.13157894736842
+                ],
+                [
+                    334.18421052631584,
+                    112.94736842105263
+                ]
+            ],
+            "group_id": 1,
+            "description": "NGUYỄN KIM HẠNH",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "/storage/intern_hcm/longph/data/Images/img_back/165.jpg",
+    "imageData": null,
+    "imageHeight": 568,
+    "imageWidth": 871
+}

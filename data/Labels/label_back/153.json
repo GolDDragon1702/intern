@@ -1,0 +1,82 @@
+{
+    "version": "5.5.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "name",
+            "points": [
+                [
+                    68.40259740259735,
+                    15.34415584415584
+                ],
+                [
+                    320.3506493506493,
+                    69.88961038961038
+                ]
+            ],
+            "group_id": 0,
+            "description": "Tên chủ xe",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "name",
+            "points": [
+                [
+                    68.40259740259735,
+                    82.87662337662337
+                ],
+                [
+                    424.2467532467532,
+                    146.512987012987
+                ]
+            ],
+            "group_id": 1,
+            "description": "TRẦN VŨ TÀI",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "engine",
+            "points": [
+                [
+                    64.50649350649346,
+                    384.1753246753247
+                ],
+                [
+                    232.038961038961,
+                    449.11038961038963
+                ]
+            ],
+            "group_id": 0,
+            "description": "Số máy",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "engine",
+            "points": [
+                [
+                    552.8181818181818,
+                    395.8636363636364
+                ],
+                [
+                    887.8831168831168,
+                    449.11038961038963
+                ]
+            ],
+            "group_id": 1,
+            "description": "E32VE206801",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "/storage/intern_hcm/longph/data/Images/img_back/153.jpg",
+    "imageData": null,
+    "imageHeight": 1119,
+    "imageWidth": 1742
+}

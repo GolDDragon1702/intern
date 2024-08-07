@@ -1,0 +1,82 @@
+{
+    "version": "5.5.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "name",
+            "points": [
+                [
+                    19.951612903225787,
+                    4.529953917050683
+                ],
+                [
+                    103.82258064516127,
+                    25.26728110599078
+                ]
+            ],
+            "group_id": 0,
+            "description": "Tên chủ xe",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "name",
+            "points": [
+                [
+                    14.421658986175098,
+                    29.414746543778797
+                ],
+                [
+                    233.31566820276498,
+                    56.6036866359447
+                ]
+            ],
+            "group_id": 1,
+            "description": "HUỲNH QUANG TRIỆU",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "engine",
+            "points": [
+                [
+                    345.2972350230415,
+                    9.599078341013817
+                ],
+                [
+                    399.2142857142857,
+                    29.875576036866356
+                ]
+            ],
+            "group_id": 0,
+            "description": "Số máy",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "engine",
+            "points": [
+                [
+                    480.78110599078343,
+                    37.70967741935483
+                ],
+                [
+                    612.5783410138248,
+                    58.907834101382484
+                ]
+            ],
+            "group_id": 1,
+            "description": "KF41E1932129",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "/storage/intern_hcm/longph/data/Images/img_back/152.jpg",
+    "imageData": null,
+    "imageHeight": 398,
+    "imageWidth": 627
+}

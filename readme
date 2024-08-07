@@ -1,0 +1,14 @@
+folders:
+    datasets: raw datasets
+    mmocr: github MMOCR
+    test: raw test data
+        rec_data: test data for recognise task
+        yolo: test data (YOLO format) for detect task
+    ultralytics: github YOLOv8
+    vietocr: github VietOCR
+
+files:
+    change_name.py: doi dung path cua image tu local sang server
+    *_infer.py: inference thu model
+    yolo_format.py: doi label sang dinh dang yolo
+

@@ -1,0 +1,46 @@
+{
+    "version": "5.5.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "name",
+            "points": [
+                [
+                    28.5,
+                    36.833333333333336
+                ],
+                [
+                    150.5,
+                    60.833333333333336
+                ]
+            ],
+            "group_id": 0,
+            "description": "Tên chủ xe",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "name",
+            "points": [
+                [
+                    38.5,
+                    68.16666666666666
+                ],
+                [
+                    249.16666666666666,
+                    106.16666666666666
+                ]
+            ],
+            "group_id": 1,
+            "description": "LÊ VĂN MẠNH",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "/storage/intern_hcm/longph/data/Images/img_back/226.jpg",
+    "imageData": null,
+    "imageHeight": 575,
+    "imageWidth": 925
+}

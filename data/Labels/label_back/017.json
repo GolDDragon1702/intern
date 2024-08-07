@@ -1,0 +1,298 @@
+{
+    "version": "5.5.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "name",
+            "points": [
+                [
+                    0.3750000000000142,
+                    0.3125
+                ],
+                [
+                    64.12500000000001,
+                    14.375
+                ]
+            ],
+            "group_id": 0,
+            "description": "Tên chủ xe",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "name",
+            "points": [
+                [
+                    0.6875000000000142,
+                    15.9375
+                ],
+                [
+                    127.56250000000001,
+                    32.5
+                ]
+            ],
+            "group_id": 1,
+            "description": "VŨ TRƯỜNG LONG",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "address",
+            "points": [
+                [
+                    0.06250000000001421,
+                    37.5
+                ],
+                [
+                    41.937500000000014,
+                    52.5
+                ]
+            ],
+            "group_id": 0,
+            "description": "Địa chỉ",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "address",
+            "points": [
+                [
+                    0.3750000000000142,
+                    55.0
+                ],
+                [
+                    154.4375,
+                    71.5625
+                ]
+            ],
+            "group_id": 1,
+            "description": "Phú Hải, Anh Dũng, DK, HP",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "brand",
+            "points": [
+                [
+                    0.3750000000000142,
+                    74.375
+                ],
+                [
+                    57.875000000000014,
+                    88.75
+                ]
+            ],
+            "group_id": 0,
+            "description": "Nhãn hiệu",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "brand",
+            "points": [
+                [
+                    106.62500000000001,
+                    75.0
+                ],
+                [
+                    152.5625,
+                    89.0625
+                ]
+            ],
+            "group_id": 1,
+            "description": "HONDA",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "model",
+            "points": [
+                [
+                    198.5,
+                    71.875
+                ],
+                [
+                    238.5,
+                    88.4375
+                ]
+            ],
+            "group_id": 0,
+            "description": "Số loại",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "model",
+            "points": [
+                [
+                    316.625,
+                    74.6875
+                ],
+                [
+                    362.25,
+                    87.1875
+                ]
+            ],
+            "group_id": 1,
+            "description": "CB500X",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "engine",
+            "points": [
+                [
+                    1.0000000000000142,
+                    88.125
+                ],
+                [
+                    41.625000000000014,
+                    104.6875
+                ]
+            ],
+            "group_id": 0,
+            "description": "Số máy",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "engine",
+            "points": [
+                [
+                    121.62500000000001,
+                    89.375
+                ],
+                [
+                    212.25,
+                    103.4375
+                ]
+            ],
+            "group_id": 1,
+            "description": "PC44E2522306",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "chassis",
+            "points": [
+                [
+                    0.6875000000000142,
+                    104.0625
+                ],
+                [
+                    52.875000000000014,
+                    121.25
+                ]
+            ],
+            "group_id": 0,
+            "description": "Số khung",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "chassis",
+            "points": [
+                [
+                    130.6875,
+                    104.6875
+                ],
+                [
+                    265.375,
+                    119.0625
+                ]
+            ],
+            "group_id": 1,
+            "description": "MLHPC59A2J5105414",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "color",
+            "points": [
+                [
+                    0.06250000000001421,
+                    121.25
+                ],
+                [
+                    48.500000000000014,
+                    135.9375
+                ]
+            ],
+            "group_id": 0,
+            "description": "Màu sơn",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "color",
+            "points": [
+                [
+                    95.68750000000001,
+                    120.625
+                ],
+                [
+                    143.5,
+                    135.3125
+                ]
+            ],
+            "group_id": 1,
+            "description": "Đỏ Đen",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "plate",
+            "points": [
+                [
+                    0.06250000000001421,
+                    150.3125
+                ],
+                [
+                    90.37500000000001,
+                    168.125
+                ]
+            ],
+            "group_id": 0,
+            "description": "Biển số đăng ký",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "plate",
+            "points": [
+                [
+                    0.6875000000000142,
+                    187.8125
+                ],
+                [
+                    148.1875,
+                    212.1875
+                ]
+            ],
+            "group_id": 1,
+            "description": "15A1-010.58",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "/storage/intern_hcm/longph/data/Images/img_back/017.jpg",
+    "imageData": null,
+    "imageHeight": 270,
+    "imageWidth": 427
+}

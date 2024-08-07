@@ -1,0 +1,46 @@
+{
+    "version": "5.5.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "name",
+            "points": [
+                [
+                    30.701680672268886,
+                    43.331932773109244
+                ],
+                [
+                    171.03781512605042,
+                    75.26470588235294
+                ]
+            ],
+            "group_id": 0,
+            "description": "Tên chủ xe",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "name",
+            "points": [
+                [
+                    30.701680672268886,
+                    75.26470588235294
+                ],
+                [
+                    390.3655462184874,
+                    118.96218487394958
+                ]
+            ],
+            "group_id": 1,
+            "description": "TRẦN NGUYỄN PHI ANH",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "/storage/intern_hcm/longph/data/Images/img_back/186.jpg",
+    "imageData": null,
+    "imageHeight": 727,
+    "imageWidth": 1053
+}

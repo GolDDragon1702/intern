@@ -1,0 +1,46 @@
+{
+    "version": "5.5.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "name",
+            "points": [
+                [
+                    4.219101123595501,
+                    55.15730337078655
+                ],
+                [
+                    221.07303370786516,
+                    101.22471910112363
+                ]
+            ],
+            "group_id": 0,
+            "description": "Tên chủ xe",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "name",
+            "points": [
+                [
+                    3.0955056179775227,
+                    115.83146067415733
+                ],
+                [
+                    527.814606741573,
+                    166.39325842696633
+                ]
+            ],
+            "group_id": 1,
+            "description": "PHẠM QUANG TRUNG",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "/storage/intern_hcm/longph/data/Images/img_back/204.jpg",
+    "imageData": null,
+    "imageHeight": 962,
+    "imageWidth": 1559
+}

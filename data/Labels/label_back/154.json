@@ -1,0 +1,82 @@
+{
+    "version": "5.5.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "name",
+            "points": [
+                [
+                    25.500000000000004,
+                    12.0
+                ],
+                [
+                    141.5,
+                    39.333333333333336
+                ]
+            ],
+            "group_id": 0,
+            "description": "Tên chủ xe",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "name",
+            "points": [
+                [
+                    19.500000000000004,
+                    60.66666666666667
+                ],
+                [
+                    270.83333333333337,
+                    96.66666666666666
+                ]
+            ],
+            "group_id": 1,
+            "description": "PHẠM VĂN VỮNG",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "engine",
+            "points": [
+                [
+                    494.1666666666667,
+                    11.333333333333334
+                ],
+                [
+                    570.1666666666666,
+                    40.0
+                ]
+            ],
+            "group_id": 0,
+            "description": "Số máy",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "engine",
+            "points": [
+                [
+                    670.1666666666666,
+                    68.66666666666666
+                ],
+                [
+                    885.5,
+                    96.66666666666666
+                ]
+            ],
+            "group_id": 1,
+            "description": "FMBVTA101342",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "/storage/intern_hcm/longph/data/Images/img_back/154.jpg",
+    "imageData": null,
+    "imageHeight": 576,
+    "imageWidth": 895
+}

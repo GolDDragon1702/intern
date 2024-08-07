@@ -1,0 +1,46 @@
+{
+    "version": "5.5.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "name",
+            "points": [
+                [
+                    13.601449275362345,
+                    1.4275362318840776
+                ],
+                [
+                    74.10869565217394,
+                    15.557971014492772
+                ]
+            ],
+            "group_id": 0,
+            "description": "Tên chủ xe",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "name",
+            "points": [
+                [
+                    2.369565217391333,
+                    17.369565217391322
+                ],
+                [
+                    187.8768115942029,
+                    37.29710144927538
+                ]
+            ],
+            "group_id": 1,
+            "description": "PHAN THỊ HOÀI THƯƠNG",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "/storage/intern_hcm/longph/data/Images/img_back/201.jpg",
+    "imageData": null,
+    "imageHeight": 313,
+    "imageWidth": 483
+}

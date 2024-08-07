@@ -1,0 +1,46 @@
+{
+    "version": "5.5.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "name",
+            "points": [
+                [
+                    39.53496503496501,
+                    32.76923076923074
+                ],
+                [
+                    166.1083916083916,
+                    58.64335664335661
+                ]
+            ],
+            "group_id": 0,
+            "description": "Tên chủ xe",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "name",
+            "points": [
+                [
+                    34.63986013986012,
+                    64.23776223776221
+                ],
+                [
+                    166.1083916083916,
+                    94.30769230769228
+                ]
+            ],
+            "group_id": 1,
+            "description": "LY A CHƯ",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "/storage/intern_hcm/longph/data/Images/img_back/188.jpg",
+    "imageData": null,
+    "imageHeight": 604,
+    "imageWidth": 949
+}

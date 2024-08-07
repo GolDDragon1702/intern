@@ -1,0 +1,46 @@
+{
+    "version": "5.5.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "name",
+            "points": [
+                [
+                    31.927007299270077,
+                    34.47810218978103
+                ],
+                [
+                    166.23357664233578,
+                    62.94525547445256
+                ]
+            ],
+            "group_id": 0,
+            "description": "Tên chủ xe",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "name",
+            "points": [
+                [
+                    29.007299270072995,
+                    68.05474452554745
+                ],
+                [
+                    277.1824817518248,
+                    102.36131386861314
+                ]
+            ],
+            "group_id": 1,
+            "description": "ĐẶNG VĂN SANG",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "/storage/intern_hcm/longph/data/Images/img_back/182.jpg",
+    "imageData": null,
+    "imageHeight": 631,
+    "imageWidth": 1004
+}

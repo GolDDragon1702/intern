@@ -1,0 +1,46 @@
+{
+    "version": "5.5.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "name",
+            "points": [
+                [
+                    31.007751937984487,
+                    55.205426356589165
+                ],
+                [
+                    156.58914728682169,
+                    84.66279069767444
+                ]
+            ],
+            "group_id": 0,
+            "description": "Tên chủ xe",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "name",
+            "points": [
+                [
+                    37.2093023255814,
+                    93.18992248062017
+                ],
+                [
+                    244.1860465116279,
+                    132.72480620155042
+                ]
+            ],
+            "group_id": 1,
+            "description": "VŨ ANH KIỆT",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "/storage/intern_hcm/longph/data/Images/img_back/185.jpg",
+    "imageData": null,
+    "imageHeight": 667,
+    "imageWidth": 1000
+}

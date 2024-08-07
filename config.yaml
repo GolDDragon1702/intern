@@ -1,0 +1,9 @@
+# path: (dataset directory path) 
+train: (train dataset folder path) 
+test: longph/test/yolo/images
+valid: (validation dataset folder path) 
+
+
+nc: 14
+
+names: ['name', 'engine', 'address', 'chassis', 'brand', 'model', 'type', 'color', 'capacity', 'seat', 'origin', 'plate', 'first_date', 'number']
